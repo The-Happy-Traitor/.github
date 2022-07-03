@@ -2,8 +2,9 @@
 
 - Barotrauma servers hosting community with big plans to make other kinds of server.
 - If you want to get involved join our discord.
+- We use multiple customs scripts to make the Barotrauma single mission multiplayer even more interesting, like (Persistent points system)
 
-Currently one of the best Dedicated Barorauma mission server.
+Currently one of the best dedicated Barorauma mission server.
 
 Hop on The Happy Traitor #1 - New & Enhanced Traitor Mod!:
 steam://run/602960//-connect=176.9.79.252 -port=27019
