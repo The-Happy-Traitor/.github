@@ -6,7 +6,7 @@
 Currently one of the best Dedicated Barorauma mission server.
 
 Hop on The Happy Traitor #1 - New & Enhanced Traitor Mod!:
-steam://run/602960//-connect=176.9.79.252 -port27019
+steam://run/602960//-connect=176.9.79.252 -port=27019
 
 Hop on The Happy Traitor #2 - New & Enhanced Traitor Mod!:
 steam://run/602960//-connect=176.9.131.91 -port=27015
