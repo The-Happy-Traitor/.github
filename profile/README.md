@@ -14,5 +14,5 @@ Hop on The Happy Traitor #2 - New &amp; Enhanced Traitor Mod!:
 </a>
 
 <a href="https://discord.gg/hFy2KBehNr">
-         <img alt="PaperMC Discord" src="https://discord.com/api/guilds/289587909051416579/widget.png?style=banner2">
+         <img alt="THT Discord" src="https://discord.com/api/guilds/874658757546766376/widget.png?style=banner2">
 </a>
