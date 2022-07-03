@@ -7,11 +7,11 @@
 
 Currently one of the best Barorauma mission servers out ther, even if I say it my self xD
 
-Hop on The Happy Traitor #1 - New &amp; Enhanced Traitor Mod!: 
-
+Hop on The Happy Traitor #1 - New & Enhanced Traitor Mod!:
 <a href="steam://connect/176.9.79.252:27019">
          <img alt="THT #1" src="http://hynnansaha.fi/kuvat/jone/barotrauma/THT.png">
 </a>
+Hop on The Happy Traitor #2 - New & Enhanced Traitor Mod!:
 <a href="steam://connect/176.9.131.91:27015">
          <img alt="THT #2" src="http://hynnansaha.fi/kuvat/jone/barotrauma/THT.png">
 </a>
