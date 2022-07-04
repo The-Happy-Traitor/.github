@@ -1,8 +1,9 @@
 # The Happy Traitor aka THT
 
-- Barotrauma servers hosting community with big plans to make other kinds of server.
-- If you want to get involved join our discord.
-- We use multiple customs scripts to make the Barotrauma single mission multiplayer even more interesting, like (Persistent points system)
+- Barotrauma server hosting community with big plans to make other gaming servers.
+- Learn more and find Barotrauma on [https://barotraumagame.com/](https://barotraumagame.com/)
+- If you want to get involved, join our discord.
+- We use multiple customs scripts to make the Barotrauma mission multiplayer even more interesting, like (Persistent points system).
 
 Arguably one of the best dedicated Barotrauma mission server.
 
